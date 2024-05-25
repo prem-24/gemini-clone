@@ -14,20 +14,23 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 
-```bash
+
 git clone <repository_url>
-Navigate to the project directory:
-bash
-Copy code
+
+
+
+2.Navigate to the project directory:
+
 cd gemini-clone
-Install dependencies:
-bash
-Copy code
+
+3.Install dependencies:;
+
 npm install
-Start the development server:
-bash
-Copy code
-npm start
+
+4.Start the development server:
+
+npm run dev
+
 Open your browser and visit http://localhost:3000 to view the application.
 
 Usage
@@ -36,11 +39,5 @@ Once the application is running, you can start browsing Gemini pages by entering
 Technologies Used
 React.js
 Tailwind CSS
-React Router for routing
 Contributing
 Contributions are welcome! If you have any ideas, suggestions, or find any issues, feel free to open an issue or create a pull request.
-
-css
-Copy code
-
-This format keeps all the content in a single Markdown file.
