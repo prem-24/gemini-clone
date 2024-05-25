@@ -17,7 +17,7 @@ function Wrapper({ children }) {
 // console.log(value)
 
   return (
-    <div className="flex h-screen">
+    <div className="flex h-screen relative">
       {children}
     </div>
   );

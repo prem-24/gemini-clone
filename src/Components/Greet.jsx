@@ -56,7 +56,7 @@ const textColorGradientToR = {
     } = useContext(Context);
   
     return (
-      <div className="wrapper px-4 p-0 md:p-5 lg:p-5 w-full md:w-128 lg:w-128 mx-auto my-0 md:my-12 lg:my-12 ">
+      <div className="wrapper  px-4 p-0 md:p-5 lg:p-5 w-full md:w-128 lg:w-128 mx-auto my-0 md:my-12 lg:my-12 ">
         {!showResult ? (
           <>
             <div className="greet w-auto md:w-128 lg:w-128 mx-auto my-0 md:my-12 py-3 md:py-5 text-title">
@@ -65,7 +65,7 @@ const textColorGradientToR = {
               </p>
               <p className="font-medium text-5xl pt-2">How can I help you today?</p>
             </div>
-            <div className="Cards   grid md:grid-cols-2 lg:grid-cols-4 gap-4 p-5">
+            <div className="Cards overflow-y-auto  grid md:grid-cols-2 lg:grid-cols-4 gap-4 p-5">
               {constants.map((item) => (
                 <div
                   key={item.id}
