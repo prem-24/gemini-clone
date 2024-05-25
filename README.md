@@ -12,9 +12,9 @@ Gemini Clone is a simple web application built with React.js and Tailwind CSS th
 
 To run this project locally, follow these steps:
 
-1. Clone the repository:
+1.Clone the repository:
 
-git clone <repository_url>
+git clone [<repository_url>](https://github.com/prem-24/gemini-clone/tree/master)
 
 2.Navigate to the project directory:
 
