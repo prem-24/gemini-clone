@@ -84,7 +84,7 @@ const textColorGradientToR = {
             </div>
           </>
         ) : (
-          <div className="wrapper w-128 mx-auto my-12">
+          <div className="wrapper w-auto md:w-128 mx-auto my-12">
             <div className="resultTitle flex gap-5 items-center mb-5">
               <img className="rounded-full w-12" src={assets.user_icon} alt="User Icon" />
               <p className=" text-lg">{recentPrompt}</p>
