@@ -14,7 +14,7 @@ To run this project locally, follow these steps:
 
 1.Clone the repository:
 
-git clone [<repository_url>](https://github.com/prem-24/gemini-clone/tree/master)
+git clone (https://github.com/prem-24/gemini-clone/tree/master)
 
 2.Navigate to the project directory:
 
@@ -28,7 +28,7 @@ npm install
 
 npm run dev
 
-Open your browser and visit http://localhost:3000 to view the application.
+Open your browser and visit https://geminiclone24.netlify.app/ to view the application.
 
 Usage
 Once the application is running, you can start browsing Gemini pages by entering the URL in the address bar and pressing Enter. You can navigate through links and menus using the keyboard or mouse.
